@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-14d82d0810.guzhenrc.cn/sitemap.xml
